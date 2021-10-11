@@ -1,2 +1,2 @@
-# FullstackAcademy-Printernightmare-writeup-2105-E.C.A.R.
+# FullstackAcademy-Printernightmare-writeup-2105-E.C.A.R
 Currently on  a purple team project performing the Printernightmare also known as CVE 2021-1675: A vulnerability that allows an attacker with low access privileges to use a malicious DLL file to escalate privilege. Threat actors can only take advantage of the vulnerability if they have direct access to the vulnerable system, so Microsoft categorized it as low-risk. The June 2021 Security Updates included a successful patch for CVE 2021-1675.   remote code execution -cvs-2021-34527- A remote code execution (RCE) vulnerability that allows threat actors to remotely inject DLLs 
